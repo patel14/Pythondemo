@@ -8,6 +8,8 @@ print("Hello I have made changes in the code")
 print("Today is saturday")
 print("I am Y")
 print(" I got the update for the file ")
+print("Okay")
+print("project is complete")
 
 print("{} {} {} {}".format("values are ",a, b, d))
 
