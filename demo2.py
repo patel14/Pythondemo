@@ -1,6 +1,10 @@
 a = "hello "
 b = "world"
 c = a + b
-print("I did not Receive any update")
+d = 5
+f = 10
+g = d + f
+print(g)
+print(" I got the update thank you")
 
 print("{}{}{}".format("Statement is ", a, b))
